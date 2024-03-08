@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/1000jinwoo/static/js/main.92b22c48.js",
+    "main.js": "/1000jinwoo/static/js/main.3bd70505.js",
     "static/js/453.a56442ab.chunk.js": "/1000jinwoo/static/js/453.a56442ab.chunk.js",
     "index.html": "/1000jinwoo/index.html",
-    "main.92b22c48.js.map": "/1000jinwoo/static/js/main.92b22c48.js.map",
+    "main.3bd70505.js.map": "/1000jinwoo/static/js/main.3bd70505.js.map",
     "453.a56442ab.chunk.js.map": "/1000jinwoo/static/js/453.a56442ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.92b22c48.js"
+    "static/js/main.3bd70505.js"
   ]
 }
